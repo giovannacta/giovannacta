@@ -18,7 +18,7 @@
 ### Contact 👇
 
 <div style="display: inline_block"><br/>
-  <a href="mailto:gctacanada@gmail.com" target="_blank">
+  <a href="gctacanada@gmail.com" target="_blank">
     <img align="center" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/giovannacta/" target="_blank">
